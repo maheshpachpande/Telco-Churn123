@@ -9,6 +9,7 @@ xgboost
 catboost
 openpyxl
 ipykernel
+flask
 dill
 nbformat
 
