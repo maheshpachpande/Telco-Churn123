@@ -1,10 +1,10 @@
 ## ENE to END Machine Learning Project
 
 ### Create virtual enviroment
-conda create -p Churn1 python==3.8 -y
+conda create -p telco_churn python==3.8 -y
 
 ### activate the enviroment
-conda activate D:\CustomerChurn\churn1
+conda activate C:\Users\user\Telco_Churn\telco_churn
 
 ### Git commands
 
@@ -16,7 +16,7 @@ git status
 git commit -m "first commit"
 git branch -M main
 git remote -v
-git remote add origin https://github.com/maheshpachpande/Churn-project.git
+git remote add origin https://github.com/maheshpachpande/Telco-Churn123.git
 git push -u origin main
 """
 ## for Existing
